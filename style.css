@@ -1,0 +1,10 @@
+body{
+    background:#222;
+    color:white;
+    text-align:center;
+    font-family:Arial;
+}
+canvas{
+    background:black;
+    border:2px solid white;
+}
